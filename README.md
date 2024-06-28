@@ -21,6 +21,6 @@ add  : git add filename (index.html)
         add useful for adding small changes in file and then commiting it once
 <!-- then staged file when commited to git it will be final change stamped -->
 <!-- only staged files get committed -->
-commit : git commit -m "some message"
+commit : git commit -m "some message"  (message about your commit)
 
 push : git push origin main
