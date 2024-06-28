@@ -23,4 +23,5 @@ add  : git add filename (index.html)
 <!-- only staged files get committed -->
 commit : git commit -m "some message"  (message about your commit)
 
+// push command used to push the changes to github online (upload local repo content to githubgit)
 push : git push origin main
