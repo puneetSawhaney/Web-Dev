@@ -25,3 +25,6 @@ commit : git commit -m "some message"  (message about your commit)
 
 // push command used to push the changes to github online (upload local repo content to githubgit)
 push : git push origin main
+
+<!-- init command :: used to create new github repo-->
+we use git init command in the folder which we want to make as git repository for now in folder otherrepo
